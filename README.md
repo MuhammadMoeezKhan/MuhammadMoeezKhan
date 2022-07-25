@@ -1,7 +1,7 @@
 ### <u>Heya! Thank You For Viewing My GitHub Profile And Projects!</u>
 ------------------------------------
 
-#### If You Would Like To Know More About Me, Please Visit:
+#### If You Would Like To Know More About Me (Experiences, Leadership, Story, Start-Ups, Skills), Please Visit:
 - My Portfolio Website: [View Moeez's Portfolio Website](https://moeezkhan.com/#contact)
 - My LinkedIn Profile: [View Moeez's LinkedIn Profile](https://www.linkedin.com/in/moeez-khan-/)
 - My Social Media Profiles: [View Moeez's LinkTree](https://linktr.ee/moeezkhan)

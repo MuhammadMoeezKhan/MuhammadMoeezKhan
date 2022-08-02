@@ -7,6 +7,9 @@
 - My Social Media Profiles: [View Moeez's LinkTree](https://linktr.ee/moeezkhan)
 
 _I would highly appreciate any sort of feedback/critique on my GitHub Projects/Profile, LinkedIn or Website!_
+<br>
+<br>
+_Plus: I have collaborated with amazing teams to develop other full-stack mobile and web applications that I am unable to publish online to respect the Non-Disclosure Agreements. It would be my pleasure to share with you the overall mission of these technologies!_
 
 
 <!--

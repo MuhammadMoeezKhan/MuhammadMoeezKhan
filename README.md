@@ -9,7 +9,7 @@
 _I would highly appreciate any sort of feedback/critique on my GitHub Projects/Profile, LinkedIn or Website!_
 <br>
 <br>
-_Plus: I have collaborated with amazing teams to develop other full-stack mobile and web applications that I am unable to publish online to respect the Non-Disclosure Agreements. It would be my pleasure to share with you the overall mission of these technologies!_
+_Plus: I have collaborated with amazing teams to further develop mobile and web applications alongside data science projects that I am unable to publish to respect the Non-Disclosure Agreements. It would be my pleasure to share the superficial mission with you!_
 
 
 <!--
